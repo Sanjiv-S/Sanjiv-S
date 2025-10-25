@@ -96,9 +96,9 @@ I’m currently pursuing a Bachelor’s degree in Artificial Intelligence and Ma
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,postgres,css,vscode,github,git,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,postman,bash,ubuntu,java,idea,kubernetes" /><br>
-    <img src="https://skillicons.dev/icons?i=,python,sklearn,opencv,tensorflow,pytorch,mysql,firebase," /><br>
+    <img src="https://skillicons.dev/icons?i=html,postgres,css,vscode,github,git,pycharm,docker,postman,bash,ubuntu" /><br>
+    <!-- <img src="https://skillicons.dev/icons?i=" /><br> -->
+    <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,tensorflow,pytorch,mysql,firebase,java,idea,kubernetes" /><br>
 </div>
 
 
