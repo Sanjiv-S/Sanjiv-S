@@ -2,7 +2,7 @@
 <!-- MasterHead -->
 
 
-<img src="https://github.com/Sivanesan-R/Sivanesan-R/blob/main/Japanese%20Wheat%20Field.gif" height="300" width="1000" >
+<img src="https://github.com/Sanjiv-S/Sanjiv-S/blob/main/gif/download%20(4).gif" height="300" width="1000" >
 
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 <!-- Greeting -->
 </h1>
-<h2 align="center">❂ I am Sanjiv</h2>
+<h2 align="center"> I Am Sanjiv</h2>
 
 <h4 align="left">🎓 About Me
 I’m currently pursuing a Bachelor’s degree in Artificial Intelligence and Machine Learning, driven by a strong passion for programming and exploring diverse areas of the IT industry. My journey focuses on building a solid foundation in computer science while staying curious about emerging technologies. I’m dedicated to continuous learning, innovation, and practical problem-solving, with the goal of applying my skills to create impactful, real-world solutions and grow alongside the ever-evolving tech landscape..</h4>
@@ -34,25 +34,34 @@ I’m currently pursuing a Bachelor’s degree in Artificial Intelligence and Ma
 
 </div>
 
-<img 
-    align="left" 
+ <img 
+    align="right" 
     alt="coding-gif" 
-    width="300" 
-    src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
-/>
+    width="360" 
+    style="border-radius:100px; margin-top:100px;" 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+/> 
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 
-<div style="font-family: 'SF Pro Display', 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 16px; line-height: 1.6;">
+<div align="left">
 
-🌱 I am currently developing my programming skills.  
-💬 Skilled in programming languages such as **Java**, **Python**, and **SQL**.  
-🧠 Familiar with technologies like **Machine Learning**, **HTML**, and **CSS**.  
-🛠️ Tools I use include **Jupyter Notebook**, **VS Code**, **GitHub**, and **IntelliJ IDEA**.  
-⚡ Interested in fields such as **Data Science**, **Artificial Intelligence**, and **Machine Learning**.
+🌱 **Currently:** Enhancing my programming skills & exploring new technologies  
+💻 **Languages:** <strong>Java</strong> | <strong>Python</strong> | <strong>SQL</strong>  
+🧠 **Technologies:** <strong>Machine Learning</strong> | <strong>HTML</strong> | <strong>CSS</strong> | <strong>Data Structures & Algorithms</strong>  
+🛠️ **Tools & IDEs:** <strong>Jupyter Notebook</strong> | <strong>VS Code</strong> | <strong>IntelliJ IDEA</strong> | <strong>Git & GitHub</strong>  
+🚀 **Interests:** <strong>Artificial Intelligence</strong> | <strong>Machine Learning</strong> | <strong>Data Science</strong> | <strong>Problem Solving</strong>  
+🎯 **Goal:** Build impactful real-world solutions while continuously learning & innovating  
 
 </div>
+
+ <img 
+    align="center" 
+    alt="coding-gif" 
+    width="1000" 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+/> 
 
 <h3 style="text-align: center;">Connect with me:</h3>
 
@@ -95,4 +104,4 @@ I’m currently pursuing a Bachelor’s degree in Artificial Intelligence and Ma
 
 <br/>
 
-<img align="" alt="Working on My Portfolio" height="310" width="1500"  src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"/>
+<img align="" alt="Working on My Portfolio" height="310" width="1500"  src="https://github.com/Sanjiv-S/Sanjiv-S/blob/main/gif/Blackrush.gif"/>
