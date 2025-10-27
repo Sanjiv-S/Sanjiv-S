@@ -29,7 +29,7 @@ I’m currently pursuing a Bachelor’s degree in Artificial Intelligence and Ma
 <div align="left">
 <p>🎓 Education: B.Tech in AI and ML,
     Hindusthan College of Engineering and Technology,
-    Coimbatore</p>
+         Coimbatore</p>
     
 <p>🌱 Currently:Enhancing my programming skills & exploring new technologies  </p>
 <p>🚀 Interests: <strong>Artificial Intelligence</strong> | <strong>Machine Learning</strong> | <strong>Data Science</strong> | <strong>Problem Solving</strong> </p> 
