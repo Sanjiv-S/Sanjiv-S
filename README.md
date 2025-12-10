@@ -85,4 +85,4 @@ I’m currently pursuing a Bachelor’s degree in Artificial Intelligence and Ma
 
 <br/>
 
-<!-- <img align="" alt="Working on My Portfolio" height="310" width="1500"  src="https://github.com/Sanjiv-S/Sanjiv-S/blob/main/gif/Blackrush.gif"/> -->
+ <img align="" alt="Working on My Portfolio" height="310" width="1500"  src="https://github.com/Sanjiv-S/Sanjiv-S/blob/main/gif/Blackrush.gif"/> 
