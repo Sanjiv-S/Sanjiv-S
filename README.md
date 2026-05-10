@@ -18,14 +18,14 @@ I’m currently pursuing a Bachelor’s degree in Artificial Intelligence and Ma
 
 <!-- About Me -->
 <h1 align="left">💫 About Me</h1>
- <img 
+<!-- <img 
     align="right" 
     alt="coding-gif" 
     width="300" 
     height="1000"
     style="float: right; border-radius: 100px;" 
     src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
-/> 
+/> -->
 <div align="left">
 <p>🎓 Education: B.Tech in AI and ML,
     Hindusthan College of Engineering and Technology,
